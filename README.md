@@ -1,3 +1,5 @@
+![Tests](https://github.com/Ashitaka2312/PARTIEL_3INFO_DEVOPS/actions/workflows/tests.yml/badge.svg)
+![Linter](https://github.com/Ashitaka2312/PARTIEL_3INFO_DEVOPS/actions/workflows/linter.yml/badge.svg)
 # Partiel DEVOPS - Exemple avec Python et GitHub Actions
 
 Ce dépôt contient un projet Python simple avec :
