@@ -1,18 +1,15 @@
-def add(a, b):
-    """Ajoute deux nombres."""
-    return a + b
+def my_function():
+    alpha = (1, 2, 3)  # Correction des espaces
+    beta = 4  # Variable inutilisée, supprimée si non nécessaire
 
-def multiply( x,y ):
-    return x*y
+    return alpha
 
-def divide(x , y ):
-    beta = 0
-    if y != 0:
-        return x/y
 
-def greet(name):
-    # GREET FONCTION
-    if name =="":
-        return "Hello, World!"
-    else:
-       return "Hello,"+name
+def another_function():
+    result = 5 + 3  # Correction des espaces autour de l'opérateur
+    return result
+
+
+if __name__ == "__main__":
+    print(my_function())
+    print(another_function())
