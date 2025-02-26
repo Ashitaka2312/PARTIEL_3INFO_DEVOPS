@@ -1,0 +1,18 @@
+# Dossiers et fichiers Python à ignorer
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.venv/
+.env
+.venv/
+venv/
+.Python
+db.sqlite3
+instance/
+.pytest_cache/
+
+# Dossiers spécifiques à l'IDE
+.vscode/
+.idea/
